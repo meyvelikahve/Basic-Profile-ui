@@ -1,3 +1,5 @@
+
 # Basic-Profile-ui
 
-!(ui)(https://user-images.githubusercontent.com/60466804/134177040-bda27ae9-cba8-402a-b1af-790c6cc2d101.png)
+
+![Screenshot_1632229721](https://user-images.githubusercontent.com/60466804/134178187-616365d8-34fb-4ac5-952e-93dbadefe1f0.png)
